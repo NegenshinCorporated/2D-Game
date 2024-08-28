@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    private float speed = 0.01f;
+    private float speed = 0.003f;
     public Vector3[] positions;
     private int index;
     private SpriteRenderer sr;
