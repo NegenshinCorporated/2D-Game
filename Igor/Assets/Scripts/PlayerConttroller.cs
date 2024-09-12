@@ -13,12 +13,18 @@ public class PlayerConttroller : MonoBehaviour
     public Transform islandCheck;
     public LayerMask whatIsIsland;
     public float radiusIslandCheck;
+    private Animator animator;
+    private bool isFlipped;
+    public GameObject sceneManager;
+    private ScreenManager screenManager;
 
     // Start is called before the first frame update
     void Start()
     {
+        screenManager = sceneManager.GetComponent<ScreenManager>();
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -29,10 +35,53 @@ public class PlayerConttroller : MonoBehaviour
         horizontal = Input.GetAxis("Horizontal");
         transform.Translate(Vector2.right * speed * Time.deltaTime * horizontal);
         sr.flipX = horizontal < 0;
+        if (horizontal < 0)
+        {
+            sr.flipX = true;
+            isFlipped = true;
+        }
+        else if (horizontal > 0)
+        {
+            sr.flipX = false;
+            isFlipped = false;
+        }
+        else 
+        {
+            if (isFlipped)
+            {
+                sr.flipX = true;
+            }
+            else
+            {
+                sr.flipX = false;
+            }
+        }
         if (Input.GetKeyDown(KeyCode.W) && onIsland)
         {
-            rb.AddForce(Vector2.up * force,ForceMode2D.Impulse);
-            
+            rb.AddForce(Vector2.up * force, ForceMode2D.Impulse);
+        }
+        if (horizontal != 0 && onIsland)
+        {
+            animator.SetFloat("Run", 1);
+        }
+        else
+        {
+            animator.SetFloat("Run", -1);
+        }
+        if (!onIsland)
+        {
+            animator.SetBool("Jump", true);
+        }
+        else
+        {
+            animator.SetBool("Jump", false);
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("FinalEnemy"))
+        {
+            screenManager.Win();
         }
     }
 }
