@@ -6,18 +6,28 @@ using UnityEngine.UI;
 public class BossKFC : MonoBehaviour
 {
     private float speed = 0.003f;
-    public Vector3[] positions;
+    private Vector3[] positions;
     private int index;
     private SpriteRenderer sr;
     public Slider slider;
     private float health = 1000;
     private void Start()
     {
+        positions = new Vector3[2] {new Vector3(108.17f, -3.43f, 0),new Vector3(95.8f, -3.43f, 0)};
         sr = GetComponent<SpriteRenderer>();
         slider.value = health;
     }
 
     void Update()
+    {
+        Move();
+        if (slider.value == 0)
+        {
+            Destroy(gameObject);
+        }
+    }
+
+    private void Move()
     {
         transform.position = Vector3.MoveTowards(transform.position, positions[index], speed);
         if (transform.position == positions[index])
@@ -25,19 +35,16 @@ public class BossKFC : MonoBehaviour
             if (index < positions.Length - 1)
             {
                 index++;
-                sr.flipX = false;
+                sr.flipX = true;
             }
             else
             {
                 index = 0;
-                sr.flipX = true;
+                sr.flipX = false;
             }
         }
-        if(slider.value == 0)
-        {
-            Destroy(gameObject);
-        }
     }
+
     public void TakeDamage()
     {
         slider.value -= Random.Range(30, 80);

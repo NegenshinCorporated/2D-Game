@@ -1,37 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\",
+  "WorkspaceRootPath": "C:\\GitHub\\2D-Game\\Igor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|c:\\users\\b-zone\\github\\2d-game\\igor\\assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|C:\\GitHub\\2D-Game\\Igor\\assets\\scripts\\bosskfc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosskfc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|c:\\users\\b-zone\\github\\2d-game\\igor\\assets\\scripts\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|c:\\github\\2d-game\\igor\\assets\\scripts\\headdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\headdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|C:\\GitHub\\2D-Game\\Igor\\assets\\scripts\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\assets\\scripts\\playerconttroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerconttroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\assets\\scripts\\screenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\assets\\scripts\\enemykiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemykiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|C:\\GitHub\\2D-Game\\Igor\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3DF2322-6F3E-A9C7-D633-906D33C7E675}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,105 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ButtonController.cs",
-              "DocumentMoniker": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\ButtonController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonController.cs",
-              "ToolTip": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\ButtonController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ButtonController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T16:34:05.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ScreenManager.cs",
-              "DocumentMoniker": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\ScreenManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenManager.cs",
-              "ToolTip": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\ScreenManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ScreenManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T16:07:45.648Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HealthController.cs",
-              "DocumentMoniker": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\HealthController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthController.cs",
-              "ToolTip": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\HealthController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HealthController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBgAAAAiAAAAAAAAAA==",
+              "Title": "HeadDamage.cs",
+              "DocumentMoniker": "C:\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\HeadDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeadDamage.cs",
+              "ToolTip": "C:\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\HeadDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeadDamage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T16:15:59.149Z",
+              "WhenOpened": "2024-09-13T16:47:35.769Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Score.cs",
-              "DocumentMoniker": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\Score.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Score.cs",
-              "ToolTip": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\Score.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Score.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T20:49:24.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EnemyKiller.cs",
-              "DocumentMoniker": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\EnemyKiller.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyKiller.cs",
-              "ToolTip": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\EnemyKiller.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyKiller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T20:04:05.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
-              "ToolTip": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T16:25:04.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CameraController.cs",
-              "DocumentMoniker": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\CameraController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
-              "ToolTip": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\CameraController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T16:09:52.228Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerConttroller.cs",
-              "DocumentMoniker": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\PlayerConttroller.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerConttroller.cs",
-              "ToolTip": "C:\\Users\\B-ZONE\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\PlayerConttroller.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerConttroller.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAowBcAAABDAAAAAAAAAA==",
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\HealthController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthController.cs",
+              "ToolTip": "C:\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\HealthController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T16:21:51.436Z"
+              "WhenOpened": "2024-09-13T16:40:50.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:39:58.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BossKFC.cs",
+              "DocumentMoniker": "C:\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\BossKFC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossKFC.cs",
+              "ToolTip": "C:\\GitHub\\2D-Game\\Igor\\Assets\\Scripts\\BossKFC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossKFC.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAjwCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:39:23.068Z",
+              "EditorCaption": ""
             }
           ]
         }
