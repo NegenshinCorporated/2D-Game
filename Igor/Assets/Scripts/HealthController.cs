@@ -36,5 +36,10 @@ public class HealthController : MonoBehaviour
                 
             }
         }
+        if (collision.gameObject.CompareTag("BossKFC"))
+        {
+            slider.value -= 20;
+            health = slider.value;
+        }
     }
 }

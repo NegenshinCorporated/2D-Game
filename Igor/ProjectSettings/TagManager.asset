@@ -8,6 +8,7 @@ TagManager:
   - Coin
   - FinalEnemy
   - KillBox
+  - BossKFC
   layers:
   - Default
   - TransparentFX
